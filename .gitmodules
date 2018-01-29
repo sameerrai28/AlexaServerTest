@@ -1,0 +1,3 @@
+[submodule "apps/skills"]
+	path = apps/skills
+	url = https://github.com/sameerrai28/sampleskills.git
