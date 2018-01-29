@@ -1,0 +1,28 @@
+{
+  "name": "alexaservertest",
+  "version": "1.0.0",
+  "description": "Alexa Skill Test",
+  "main": "server.js",
+  "dependencies": {
+    "alexa-app-server": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sameerrai28/AlexaServerTest.git"
+  },
+  "keywords": [
+    "Alexa",
+    "Skill"
+  ],
+  "author": "Sameer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sameerrai28/AlexaServerTest/issues"
+  },
+  "homepage": "https://github.com/sameerrai28/AlexaServerTest#readme"
+}
